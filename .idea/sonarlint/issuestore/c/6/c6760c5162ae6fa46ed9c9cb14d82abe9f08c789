@@ -1,18 +1,18 @@
 
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ÿµ¢
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®Ê¬æ8”ÜÜÇå.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ÓÆ¾şÿÿÿÿ8”ÜÜÇå.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûœĞ¥ÿÿÿÿÿ8”ÜÜÇå.
 W
 java:S1854	"5Remove this useless assignment to local variable "a".(µ¿ñùÿÿÿÿ8”ÜÜÇå.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(—şÕÉ8”ÜÜÇå.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³İ‡¦ÿÿÿÿÿ
 W
 java:S1854
 "5Remove this useless assignment to local variable "a".(¹ªÎˆıÿÿÿÿ8”ÜÜÇå.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—şÕÉ8”ÜÜÇå.
 I
 java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68Æ•½Èå.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(®Ê¬æ8”ÜÜÇå.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûœĞ¥ÿÿÿÿÿ8”ÜÜÇå.
 Q
 java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ8Æ•½Èå.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ÓÆ¾şÿÿÿÿ8”ÜÜÇå.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³İ‡¦ÿÿÿÿÿ
 H
 java:S1481	"&Remove this unused "a" local variable.(µ¿ñùÿÿÿÿ8”ÜÜÇå.

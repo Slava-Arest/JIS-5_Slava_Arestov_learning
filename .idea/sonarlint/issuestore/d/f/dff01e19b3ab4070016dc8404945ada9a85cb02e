@@ -2,10 +2,10 @@
 U	java:S106
 "9Replace this use of System.out or System.err by a logger.(×ë…8ûÛ›Èå.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(º¹¡™ıÿÿÿÿ8ûÛ›Èå.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(×«Äk8ûÛ›Èå.
 \
 java:S1854	"?Remove this useless assignment to local variable "boundRandom".(£ÈÊŠ8ûÛ›Èå.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Í÷ÍÂ8ûÛ›Èå.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ÿµ¢
 M
 java:S1481	"0Remove this unused "boundRandom" local variable.(£ÈÊŠ8ûÛ›Èå.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ÿµ¢
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í÷ÍÂ8ûÛ›Èå.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(×«Äk8ûÛ›Èå.
