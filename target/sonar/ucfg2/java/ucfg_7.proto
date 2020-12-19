@@ -1,0 +1,98 @@
+
+.Lecture_3.Ht_1.Dog#equals(Ljava/lang/Object;)ZU
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java, ,("startingBlock*û
+2U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java2 2(ö
+ó
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java2 2(
+%4java.lang.String"__id* *
+Lecture_3.Ht_1.Dog"
+nameü
+ú
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java2 2(!
+%5java.lang.String"__id*%*#
+
+dogLecture_3.Ht_1.Dog"
+name*
+1*õ
+startingBlockU
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java, ,(#ù
+ö
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java+ +(
+%6"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Objectá
+Ñ
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java,! ,("
+ojava.lang.Object"__annotation*
+
+%6*	
+6
+7
+9*£
+4U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java1 1(õ
+ò
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java1 1(
+%2java.lang.String"__id*!*
+Lecture_3.Ht_1.Dog"
+color†
+ù
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java1 1(#
+%3java.lang.String"__id*&*$
+
+dogLecture_3.Ht_1.Dog"
+color*
+2
+1*¸
+5U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java/ /(î
+ë
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java/ /(
+dogLecture_3.Ht_1.Dog"__id*
+
+ojava.lang.Object*	
+2
+4
+1*ª
+6U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java.< .(A"_
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java.5 .(B
+""*Ô
+7U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java. .(!√¿
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java. .(#
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+Lecture_3.Ht_1.Dog2
+getClass()ƒ¡
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java.' .(3
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ojava.lang.Object2
+getClass()*
+5
+6*ª
+9U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java- -(""_
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java- -(#
+""*ª
+1U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java0 2(#"_
+U
+KD:/Java Guru learning/Java_Learning_1/src/main/java/Lecture_3/Ht_1/Dog.java0 2(#
+"":
+ojava.lang.ObjectB
+Lecture_3.Ht_1.Dog
