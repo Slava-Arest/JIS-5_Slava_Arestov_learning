@@ -1,26 +1,6 @@
 
-Q
-!src/main/java/Lecture_1/Hw_1_Ht_1,2\3\23292a675d746dc346bdf6712347cd059e7849e8
-Q
-!src/main/java/Lecture_1/Hw_1_Ht_2,3\1\313d88275fcfbcc5481e93e5af72e245f40d33d1
-Q
-!src/main/java/Lecture_2/Hw_2_Ht_1,8\6\86299cf97d7d0cd15c6bbaba1588a242ac43a96c
-Q
-!src/main/java/Lecture_2/Hw_2_Ht_2,9\6\9632d1e384a8a8b2286d7c65eaeb5a87d1f2c501
-Q
-!src/main/java/Lecture_2/Hw_2_Ht_4,1\5\15d5d4d614cbfe08b7e140e67e358ce3778900e7
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-C
-Java_Learning_1.iml,b\7\b776efdde9b165876d15ba82452f61ddf0c33c10
-`
-0src/main/java/Lecture_2/RandomGeneratorDemo.java,d\f\dff01e19b3ab4070016dc8404945ada9a85cb02e
-\
-,src/main/java/Lecture_2/Math_operations.java,c\6\c6760c5162ae6fa46ed9c9cb14d82abe9f08c789
-l
-<src/test/java/bean/lecture_2/tests/Math_operations_test.java,2\9\2992aa6b4aae3efd138063c58af887c8a8c77253
-‚
-Rtarget/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,8\a\8ae396f369da14bb5c0973286facff8fb2c70d56
 €
 Ptarget/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,3\d\3da01db98b88a8057c03354880f06dba49d3e795
 O
@@ -29,7 +9,11 @@ T
 $target/maven-archiver/pom.properties,5\a\5acbe6c306dee4498a010b1ca2096853e29e16a4
 L
 target/sonar/report-task.txt,6\9\6966c3e548f2732cd42fa2014f7a0911380622b7
-c
-3src/test/java/bean/lecture_2/tests/Random_Test.java,8\7\87de8c6a6495b02f4aca126373c6ea568165f730
-J
-src/main/java/Classes.java,f\1\f14153a995d6b6b50df137706b9da89b954f8ae1
+U
+%src/main/java/Lecture_3/Ht_1/Dog.java,c\3\c39e61fae06abf49025617ed2dd3d38ab2354c79
+Y
+)src/main/java/Lecture_3/Ht_1/DogDemo.java,4\8\4872aeacfa7e3b33f04d5067204a934247c573f4
+Y
+)src/test/java/Lecture_3/Ht_1/DogTest.java,4\6\4675141bf9d3d3610f600c7952f1c3812b464c01
+]
+-src/test/java/Lecture_3/Ht_1/DogDemoTest.java,a\a\aab8e67a1b6c3ffcfb61bd6f7adbb1cd09c4e751

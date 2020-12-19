@@ -1,7 +1,7 @@
 organization=slava-arestov-95
 projectKey=Slava-Arest_JIS-5_Slava_Arestov_learning
 serverUrl=https://sonarcloud.io
-serverVersion=8.5.0.37579
+serverVersion=8.0.0.15829
 dashboardUrl=https://sonarcloud.io/dashboard?id=Slava-Arest_JIS-5_Slava_Arestov_learning
-ceTaskId=AXZY59cVAtXMd9lJwMwU
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXZY59cVAtXMd9lJwMwU
+ceTaskId=AXZ7AiRn0H6_B2FHlasp
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXZ7AiRn0H6_B2FHlasp
