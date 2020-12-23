@@ -63,3 +63,13 @@ c
 Lecture_3.iml,7\4\74c8ea328676461fd094cb895e00457926e66404
 [
 +src/main/java/Lecture_4/SignComparator.java,c\8\c8b3e3293f7b679feb94d7fed5bb83ede23643b4
+c
+3src/test/java/Lecture_4/LightColorDetectorTest.java,3\a\3a60c46ae715f7b993cde2da6e851be00be133f0
+[
++src/main/java/Lecture_4/PhraseAnalyser.java,5\7\5768f5a9670435750f1a8a543eb2b04543179de8
+_
+/src/test/java/Lecture_4/PhraseAnalyserTest.java,2\8\28bb8e7dd67c1d69a581374d0d8c95a7a91157f6
+_
+/src/test/java/Lecture_4/SignComparatorTest.java,7\a\7a43094028526a53ed5d929b4868701db09556ae
+_
+/src/main/java/Lecture_4/LightColorDetector.java,b\2\b2cea45dc884e14cf475d341910bc232fcdf8d31

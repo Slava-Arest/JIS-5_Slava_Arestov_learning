@@ -44,9 +44,9 @@
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
         <sonar.projectKey>Slava-Arest_JIS-5_Slava_Arestov_learning</sonar.projectKey>
-        <sonar.organization>slava-arestov-95</sonar.organization>
+        <sonar.organization>slava-arest</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>be9ac6940e9a77ae5a4af5c5047055e078aa5918</sonar.login>
+        <sonar.login>a4e1af30ad9da8a34da9492eea872df59e6ed012</sonar.login>
     </properties>
 
     <build>
