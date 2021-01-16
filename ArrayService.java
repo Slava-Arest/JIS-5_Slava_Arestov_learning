@@ -6,7 +6,6 @@ public class ArrayService {
         return new int[size];
     }
     public int[] fillRandomly(int[] array){
-        int[] massive = new int[100];
         Random random = new Random();
         for (int i = 0; i < array.length; i++){
             array[i] = random.nextInt(100);
